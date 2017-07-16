@@ -1,0 +1,3 @@
+book:
+  isbn: https://api.douban.com/v2/book/isbn
+  search: https://api.douban.com/v2/book/search
